@@ -1,13 +1,10 @@
-# Ignore everything inside HFSS except the core .aedt file
-HFSS/*
+HFSS/**
+!HFSS/
 !HFSS/*.aedt
 
-# Ignore everything inside Altium except specific source design files
-Altium/*
+
+Altium/**
+!Altium/
 !Altium/FR4_Wilkinson_Divider.PcbDoc
 !Altium/FR4_Wilkinson_Divider.PrjPcb
 !Altium/FR4_Wilkinson_Divider.SchDoc
-
-# Block all HFSS cache folders globally
-**/*.aedtresults/
-**/*.aedb/
