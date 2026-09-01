@@ -5,6 +5,6 @@ HFSS/**
 
 Altium/**
 !Altium/
-!Altium/FR4_Wilkinson_Divider.PcbDoc
-!Altium/FR4_Wilkinson_Divider.PrjPcb
-!Altium/FR4_Wilkinson_Divider.SchDoc
+!Altium/*.PcbDoc
+!Altium/*.PrjPcb
+!Altium/*.SchDoc
