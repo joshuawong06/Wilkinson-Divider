@@ -1,5 +1,7 @@
 # FR4 Wilkinson Power Divider
 
+![PCB Layout](Images/PCB_Layout.png)
+
 This is a S-band dual-channel Wilkinson power divider designed for the UTAT (University of Toronto Aerospace Team) CubeSat RF system. The board splits each RF path from the transceiver (TX @ 2.245 GHz and RX @ 2.067 GHz) into two matched output ports while targeting low insertion loss, good return loss, and isolation between output ports. The split paths are intended to feed two sets of dual patch antennas mounted on opposite sides of the CubeSat.
 
 The design was first simulated in HFSS on FR4 (1.6mm board thickness) as a low cost prototype before potentially moving to a lower loss but more expensive substrate like Rogers. 
@@ -21,10 +23,6 @@ This project includes:
 - Solder mask dams added near hand soldered component pads to reduce the risk of solder wicking onto nearby RF traces during assembly
 - SMA connector footprints were included in the HFSS model to better capture connector launch effects
 - Altium PCB was re-imported into HFSS using EDB to validate the routed layout
-
-## PCB Layout
-
-![PCB Layout](Images/PCB_Layout.png)
 
 ## HFSS Model
 
