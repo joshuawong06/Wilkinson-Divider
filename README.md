@@ -46,6 +46,7 @@ This project includes:
 |---|---:|---:|---:|---:|---:|
 | TX | 2.245 GHz | -34.27 dB | ~-29 dB | ~0.34 dB | -43.30 dB |
 | RX | 2.067 GHz | ~-30.70 dB | ~-28.5 dB | ~-0.32 dB | -40.22 dB |
+*Note: Excess insertion loss is calculated relative to the ideal 3.01 dB split of a lossless two-way divider.*
 
 ## Next Steps
 
