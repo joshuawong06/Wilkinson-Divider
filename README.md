@@ -18,7 +18,7 @@ This project includes:
 - Two independent Wilkinson divider channels
 - 50 Ω input/output ports
 - 70.7 Ω quarter-wavelength divider branches
-- 100 Ω isolation resistor between output ports (0402 footprint)
+- 100 Ω isolation resistor between output ports (0402 package for hand solderability and low parasitics)
 - 70mm (W) x 36mm (H) compact board size 
 - Solder mask dams added near hand soldered component pads to reduce the risk of solder wicking onto nearby RF traces during assembly
 - SMA connector footprints were included in the HFSS model to better capture connector launch effects
