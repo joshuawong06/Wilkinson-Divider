@@ -53,3 +53,7 @@ This project includes:
 - Measure S-parameters using a VNA
 - Compare measured results against HFSS simulations
 - Consider migration to a lower-loss RF substrate
+
+## Acknowledgements
+
+Thank you to Joonho Jang (2026 UTAT RF lead) for letting me work on this project
