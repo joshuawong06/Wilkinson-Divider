@@ -18,7 +18,7 @@ This project includes:
 - Two independent Wilkinson divider channels
 - 50 Ω input/output ports
 - 70.7 Ω quarter-wavelength divider branches
-- 100 Ω isolation resistor between output ports (0402 footprint)
+- 100 Ω isolation resistor between output ports (0402 package for hand solderability and low parasitics)
 - 70mm (W) x 36mm (H) compact board size 
 - Solder mask dams added near hand soldered component pads to reduce the risk of solder wicking onto nearby RF traces during assembly
 - SMA connector footprints were included in the HFSS model to better capture connector launch effects
@@ -53,3 +53,7 @@ This project includes:
 - Measure S-parameters using a VNA
 - Compare measured results against HFSS simulations
 - Consider migration to a lower-loss RF substrate
+
+## Acknowledgements
+
+Thank you to Joonho Jang (2026 UTAT RF lead) for letting me work on this project
