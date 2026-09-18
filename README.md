@@ -47,12 +47,9 @@ This project includes:
 
 *Note: Excess insertion loss is calculated relative to the ideal 3.01 dB split of a lossless two-way divider.*
 
-## Next Steps
+## Current Progress
 
-- Fabricate and assemble the FR4 prototype
-- Measure S-parameters using a VNA
-- Compare measured results against HFSS simulations
-- Consider migration to a lower-loss RF substrate
+-  The prototype has been fabricated and S-parameters were tested using a VNA (Will upload results soon) 
 
 ## Acknowledgements
 
