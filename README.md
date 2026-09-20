@@ -9,9 +9,10 @@ The design was first simulated in HFSS on FR4 (1.6mm board thickness) as a low c
 ## Overview
 
 This project includes: 
-- Altium PCB schematic and layout files
 - HFSS 3D simulation model
 - Simulated S-parameter results for both channels
+- Altium PCB schematic and layout files
+- VNA testing results
 
 ## Design features
 
