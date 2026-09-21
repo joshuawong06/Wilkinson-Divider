@@ -69,7 +69,7 @@ Each channel has 6 unique S-parameters: S11, S22, S33, S21, S31, and S23
 | TX (2245 MHz) | -25.06 dB | -22.29 dB, -20.32 dB | -3.3 dB, -3.35 dB | -23.52 dB |
 | RX (2067 MHz) | -22.77 dB | -18.82 dB, -23.15 dB | -3.43 dB, -3.4 dB | -23.80 dB |
 
-Pictures of the VNA testing results can be found under [Images/VNA Results](Images/VNA%20Results) 
+Pictures of the VNA testing results can be found under [Images/VNA Results](Images/VNA%20Results/) 
 
 The real life results are slightly worse than simulation which is expected, but still lie within acceptable values for a flight divider. 
 
